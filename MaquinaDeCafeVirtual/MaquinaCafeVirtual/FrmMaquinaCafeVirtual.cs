@@ -40,7 +40,7 @@ namespace MaquinaCafeVirtual
             moedasInativas.Add(0.01);
             moedasInativas.Add(0.05);
 
-            Inicial(); //inicializar os textobox de valorse
+            Inicial();
         }
 
         public void Inicial()
