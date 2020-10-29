@@ -95,6 +95,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\icon.ico" />
+    <Content Include="Images\img_10Cents.png" />
     <Content Include="Images\img_1Cents.png" />
     <Content Include="Images\img_1Real.png" />
     <Content Include="Images\img_25Cents.png" />
