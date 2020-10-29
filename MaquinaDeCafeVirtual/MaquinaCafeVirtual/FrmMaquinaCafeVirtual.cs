@@ -6,6 +6,7 @@ namespace MaquinaCafeVirtual
 {
     public partial class FrmMaquinaCafeVirtual : Form
     {
+        //COMENTÁRIO 2 TESTE GITHUB
         public FrmMaquinaCafeVirtual()
         {
             InitializeComponent();
